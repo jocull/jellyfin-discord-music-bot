@@ -1,9 +1,7 @@
 test
 images
 docs
-package-lock.json
 Dockerfile
-yarn.lock
 .yarn
 .vscode
 .github
